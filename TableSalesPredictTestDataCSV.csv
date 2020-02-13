@@ -1,0 +1,15 @@
+Day of the week,Will it rain?,Temperature,Local funfair,Price of icecream at local supermarket,Price of catfood at local supermarket,Icecreams sold
+Monday,Yes,17,No,1.5,4.5,38
+Monday,No,29,No,1.2,4,73
+Tuesday,Yes,32,No,1.2,4.2,73
+Tuesday,No,28,No,1.7,4.5,70
+Wednesday,Yes,21,No,1.2,4,48
+Wednesday,Yes,22,No,1.5,4.2,49
+Thursday,Yes,22,No,1.2,4.2,50
+Thursday,No,24,No,1.7,4.5,61
+Friday,Yes,27,No,1.5,4,60
+Friday,Yes,29,Yes,1.2,4,74
+Saturday,No,23,No,1.2,4.5,64
+Saturday,No,25,Yes,1.7,4.2,77
+Sunday,No,25,No,1.5,4,69
+Sunday,Yes,26,Yes,1.5,4.5,70
